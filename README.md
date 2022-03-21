@@ -4,6 +4,6 @@
 
 
 
-# C_Study
+# 한번에끝내는Java/Spring웹개발마스터초격차패키지
+Online.
 
-- 책 : 모두의 C언어
